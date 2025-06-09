@@ -1,10 +1,9 @@
+# Test2025
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-0.1.0-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/beyinvesinir/test2025)
 ![Last Commit](https://img.shields.io/github/last-commit/beyinvesinir/test2025)
-
-# Test2025
 
 🚀 Bu depo, `test2025` adlı deneysel bir proje için oluşturulmuştur.
 
